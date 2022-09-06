@@ -1,0 +1,8 @@
+{
+  "name": "hardhat-simple-storage-fcc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ChungmanCheng/ethers-simple-storage-fcc.git",
+  "author": "ChungManCheng <erwinchengchungman916@gmail.com>",
+  "license": "MIT"
+}
