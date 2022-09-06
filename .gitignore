@@ -3,7 +3,12 @@
 node_modules/
 package-lock.json
 
+# compiled solidity files
 *.abi
 *.bin
 
+# environment
+.env
+
+# yarn dependencies
 yarn.lock
