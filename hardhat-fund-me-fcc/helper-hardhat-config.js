@@ -1,7 +1,7 @@
 const networkConfig = {
 
     31337: {
-        name: "hardhat",
+        name: "localhost",
     },
     
     5: {
@@ -11,7 +11,7 @@ const networkConfig = {
 
 }
 
-const developmentChains = ["hardhat", "Goerli"];
+const developmentChains = ["hardhat", "localhost"];
 
 module.exports = {
     networkConfig,
