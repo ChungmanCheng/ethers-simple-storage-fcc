@@ -25,5 +25,8 @@
     "prettier-plugin-solidity": "^1.0.0-beta.24",
     "solidity-coverage": "^0.8.1",
     "typechain": "^8.1.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
